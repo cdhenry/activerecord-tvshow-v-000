@@ -1,3 +1,3 @@
 class AddSeasontoShows
-
-end
+  add_column(shows, season, string)
+end 
